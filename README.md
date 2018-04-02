@@ -1,5 +1,5 @@
 <h2  align="center">Blacklist</h2>
-<p  align="center">A Discord bot made with Discord.js that allows me to compare with Discord.py</p>
+<p  align="center">A Bukkit plugin that allows you to blacklist players</p>
 
 <br/>
 
